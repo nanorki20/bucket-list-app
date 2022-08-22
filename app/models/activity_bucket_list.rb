@@ -1,0 +1,2 @@
+class ActivityBucketList < ApplicationRecord
+end
